@@ -1,4 +1,5 @@
 #Code by HermanErKu
+#Made in Python 3.9
 import pyautogui
 import keyboard
 import time
